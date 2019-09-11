@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DroidCafe</string>
+    <string name="action_settings">Settings</string>
+    <string name="donuts">Donuts are dlased and sprinkled with candies</string>
+    <string name="ice_cream_sandwiches">Ice Cream sandwich have chocolate wafers and vanilla goodies</string>
+    <string name="froyo">FroYo is a premium butt grower</string>
+</resources>
